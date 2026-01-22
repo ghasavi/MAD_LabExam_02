@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- res/values/colors.xml -->
+
+    <!-- 60% Background -->
+    <color name="colorPrimary">#A7E0F5</color> <!-- light aqua -->
+    <color name="colorSecondary">#9FB3DF</color> <!-- light cornflower blue -->
+    <color name="colorAccent">#C5B0CD</color> <!-- muted lavender -->
+
+    <!-- Neutral -->
+    <color name="textPrimary">#2E2E2E</color> <!-- Darker gray for high contrast -->
+    <color name="textSecondary">#555555</color> <!-- Slightly darker secondary text -->
+
+    <color name="white">#FFFFFF</color>
+    <color name="black">#000000</color>
+
+
+</resources>

@@ -1,0 +1,121 @@
+<resources>
+    <string name="app_name">MoodLift</string>
+
+    //on boarding screen01
+    <string name="onboard1_title">Take Control of Your \nEmotions</string>
+    <string name="onboard1_para">Learn simple ways \nto calm your anger,sadness,anxiety \nand lift your mood \nanytime, anywhere.</string>
+    <string name="next_button1">Next</string>
+
+    //on boarding screen02
+    <string name="onboard2_title">Find Peace in Every \nMoment</string>
+    <string name="onboard2_para">Practice positive habits, \nread affirmations, \nand feel better with daily \nguidance.</string>
+    <string name="next_button2">Next</string>
+    <string name="back_button1">Back</string>
+
+    //sign up/ sign in
+    <string name="sstext1">Join us to save your progress and get the best experience!</string>
+    <string name="ssbutton1">Sign Up</string>
+    <string name="ssbutton2">Log In</string>
+    <string name="sstext2">We respect your privacy and data.</string>
+
+    //sign up
+    <string name="signUp_title">Sign Up</string>
+    <string name="sutext1">Already have an account? Log in</string>
+    <string name="sutext2">Username</string>
+    <string name="sutext3">Email</string>
+    <string name="sutext4">Password</string>
+    <string name="signup_button">Sign Up</string>
+
+    //log in
+    <string name="back">Back</string>
+    <string name="logIn_title">Log In</string>
+    <string name="login_text">Don’t have an account? Sign up here</string>
+    <string name="ltext1">Email</string>
+    <string name="ltext2">Password</string>
+    <string name="login_button">Log In</string>
+
+    //get started
+    <string name="gstext1">Welcome</string>
+    <string name="gstext2">Your smart companion to manage tasks, stay productive, and reach your goals faster!</string>
+    <string name="getstarted_button">Get Started</string>
+
+    //home screen
+    <string name="text1">Hello Avi 👋</string>
+    <string name="text2">Everything will be allright !</string>
+    <string name="text3">How are you feeling right now?</string>
+    <string name="text4">Sad</string>
+    <string name="text5">Angry</string>
+    <string name="text6">Anxious</string>
+
+    //sad screen
+    <string name="stitle_text">Feeling sad? Here are some tips to cool down!</string>
+    <string name="stext1">01. Take a short walk outside and get some fresh air.</string>
+    <string name="stext2">02. Listen to your favorite uplifting music.</string>
+    <string name="stext3">03. Talk to a loved one about how you feel.</string>
+    <string name="stext4">04. Write down your thoughts in a journal.</string>
+    <string name="stext5">05. try a short meditation.</string>
+    <string name="stext6">06. Drink a glass of water or have a healthy snack.</string>
+    <string name="stext7">07. Watch something that makes you laugh.</string>
+    <string name="stext8">08. Do a small act of kindness for someone else.</string>
+    <string name="stext9">09. Engage in a hobby you enjoy.</string>
+    <string name="stext10">10. Take a short break from screens.</string>
+
+    //angry screen
+    <string name="atitle_text">Feeling angry? Here are some tips to cool down!</string>
+    <string name="atext1">01. Take a few deep breaths and count to ten.</string>
+    <string name="atext2">02. Step away from the situation for a moment.</string>
+    <string name="atext3">03. Go for a walk or do some light exercise.</string>
+    <string name="atext4">04. Write down what’s making you angry.</string>
+    <string name="atext5">05. Try a short meditation or breathing exercise.</string>
+    <string name="atext6">06.  Drink water or have a calming herbal tea.</string>
+    <string name="atext7">07. Listen to soothing music or nature sounds.</string>
+    <string name="atext8">08. Talk to a friend about your feelings calmly.</string>
+    <string name="atext9">09. Engage in a hobby to release tension.</string>
+    <string name="atext10">10. Practice mindfulness or a short relaxation exercise.</string>
+
+    //anxious screen
+    <string name="xtitle_text">Feeling anxious? Here are some tips to cool down!</string>
+    <string name="xtext1">01. Take slow, deep breaths.</string>
+    <string name="xtext2">02. Count backwards from 100.</string>
+    <string name="xtext3">03. Stretch or do light exercise.</string>
+    <string name="xtext4">04. Drink a glass of water.</string>
+    <string name="xtext5">05. Step outside for fresh air.</string>
+    <string name="xtext6">06. Listen to calming music.</string>
+    <string name="xtext7">07. Write down your worries.</string>
+    <string name="xtext8">08. Practice a quick mindfulness exercise.</string>
+    <string name="xtext9">09. Talk to a friend or loved one.</string>
+    <string name="xtext10">10. Focus on something you enjoy.</string>
+
+    //dashboard
+    <string name="dtext1">Home</string>
+    <string name="dtext2">Profile</string>
+    <string name="dtext3">Tips for anger issues</string>
+    <string name="dtext4">Tips to get rid of sadness</string>
+    <string name="dtext5">Tips to avoid being anxious</string>
+
+    //profile
+    <string name="ptext1">Name</string>
+    <string name="ptext2">Anna Doe</string>
+    <string name="ptext3">Email</string>
+    <string name="ptext4">Anna.doe@email.com</string>
+    <string name="ptext5">Phone</string>
+    <string name="ptext6">+1 234 567 890</string>
+    <string name="ptext7">Location</string>
+    <string name="ptext8">New York, USA</string>
+    <string name="ptext9">Settings</string>
+
+    //edit profile
+    <string name="eptext1">Change Photo</string>
+    <string name="eptext2">Name</string>
+    <string name="eptext3">Enter your name</string>
+    <string name="eptext4">Email</string>
+    <string name="eptext5">Enter your email</string>
+    <string name="eptext6">Phone</string>
+    <string name="eptext7">Enter your phone number</string>
+    <string name="eptext8">Location</string>
+    <string name="eptext9">Enter your location</string>
+    <string name="eptext10">Save Changes</string>
+
+
+
+</resources>
